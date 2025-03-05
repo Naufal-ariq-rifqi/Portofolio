@@ -23,12 +23,6 @@
         h1, h2 {
             color: #333;
         }
-        .profile-img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            object-fit: cover;
-        }
         .section {
             margin-top: 20px;
             padding: 10px;
